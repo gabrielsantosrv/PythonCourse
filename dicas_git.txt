@@ -1,0 +1,13 @@
+git clone - baixar o repositório pela 1a vez
+
+git status - mostra as alterações realizadas no projeto
+
+git diff - indica as alterações feitas num arquivo
+
+git add <arquivos> - adiciona os arquivos que serão versionados
+
+git commit -m "<mensagem>" - cria uma versão do seu código
+
+git push - publica as suas alterações
+
+
